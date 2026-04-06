@@ -36,6 +36,6 @@ API endpoints
 - POST /api/rfps/{rfp_id}/send -> send to list of vendor IDs (body is list of UUIDs)
 - POST /api/proposals/ingest -> ingest raw proposal {rfp_id, vendor_email, raw_text}
 - POST /api/rfps/{rfp_id}/send -> send to list of vendor IDs (body is list of UUIDs)
-- POST /api/proposals/ingest -> ingest raw proposal {rfp_id, vendor
+- POST /api/proposals/ingest -> ingest
 
 
