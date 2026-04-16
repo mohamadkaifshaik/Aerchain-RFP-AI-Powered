@@ -38,6 +38,5 @@ API endpoints
 
 ****
 - POST /api/rfps/{rfp_id}/send -> send to list of vendor IDs (body is list of UUIDs)
-- 
 
 
